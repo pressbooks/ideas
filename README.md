@@ -1,2 +1,2 @@
-# ideas
+# Ideas
 Ideas for Pressbooks.
