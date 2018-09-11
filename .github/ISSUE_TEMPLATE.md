@@ -1,16 +1,3 @@
-### Feature Scope
-
-<!-- Check all that apply. -->
-
-- [ ] Accessibility and inclusivity
-- [ ] User interface (content creation)
-- [ ] User interface (network home page & catalog)
-- [ ] User interface (reading)
-- [ ] Import/export formats
-- [ ] Authoring tools
-- [ ] Book themes
-- [ ] Integration with third-party services
-
 ### Feature Description
 
 <!-- Please describe the feature in detail. Screenshots and links to technical documentation are great! -->
